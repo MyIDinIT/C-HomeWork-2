@@ -12,6 +12,6 @@ if (a<100)
 }
 else if (a>99)
 {
-    string a=Convert.ToString(a);
-    Console.WriteLine(a[3]);
+    string b=Convert.ToString(a);
+    Console.WriteLine(b[2]);
 }
