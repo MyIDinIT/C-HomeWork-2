@@ -1,0 +1,15 @@
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\task13-1.csproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\task13-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\task13-1.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\task13-1.AssemblyInfo.cs
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\task13-1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\bin\Debug\net6.0\task13-1.exe
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\bin\Debug\net6.0\task13-1.deps.json
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\bin\Debug\net6.0\task13-1.runtimeconfig.json
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\bin\Debug\net6.0\task13-1.dll
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\bin\Debug\net6.0\task13-1.pdb
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\task13-1.dll
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\refint\task13-1.dll
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\task13-1.pdb
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\task13-1.genruntimeconfig.cache
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar2\task13-1\obj\Debug\net6.0\ref\task13-1.dll
